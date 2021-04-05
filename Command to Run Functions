@@ -1,0 +1,23 @@
+Hello :- Normal Greetings
+Tell Me your Name :- For System Name
+My name is 'Your name':- to memorize your name
+tell me the time :- For current time
+Search for 'any google search':- it will search in google an read the first line of google search
+'search'on youtube :- for YouTube search
+Price of 'stock company' :- give current stock market price 
+waether :- Show the current weather
+Game :- to play game (select from rock paper scisser)
+coin :- to flip a coin
+'number'+'number':- for addition (2+2)
+'number'-'number':- for Substraction (3-2)
+'number'x'number':- for multiply (4x2)
+'number'/'number':- for addition (8/2)
+'number'power'number':- for power (2**2)
+Screenshot :- to capture ss
+where am i :- for current state 
+what is my exact location :-for exact location
+email to gaurav :- to send an mail
+news :- to view top 10 news headline
+
+
+
